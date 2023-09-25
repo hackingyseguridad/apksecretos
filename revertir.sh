@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo
-chmod 777 revetir.sh
+chmod 777 revertir.sh
 echo "Uso.: sh revertir.sh nombre_fichero.apk" 
 echo "descomprime los arvhicos de la aplicación movil .APK, en la carpeta /tmp/"
 echo 
