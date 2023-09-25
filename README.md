@@ -1,6 +1,6 @@
 # apksecretos
 
-Analisis heuristico de APP aplicación movil .APK y extraer los datos embebidos "secretos" de una .APK, claves, tokens, usuarios, certificados, enlaces a terceros, 
+Analisis heuristico de APP aplicación movil .APK y extraer los datos embebidos "secretos" de una .APK, api, claves, tokens, usuarios, certificados, enlaces a terceros, 
 
 1º.- desenpaqueta.sh - descomprime los archivos de la aplicación movil .APK, en la carpeta /tmp/
 
