@@ -7,3 +7,9 @@ Analisis heuristico de APP aplicación movil .APK y extraer los datos embebidos 
 2º.- secretos.sh - busca secretos contenidos en el codigo de los ficheros: claves, tokens, usuarios, certificados, url, enlaces a terceros, IP..
 
 
+
+# http://hackingyseguridad.com
+
+https://github.com/vincentcox/StaCoAn
+
+https://stackoverflow.com/questions/22102999/get-total-physical-memory-in-python/22103295#22103295
