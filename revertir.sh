@@ -7,4 +7,4 @@ echo " - descomprime los arvhicos de la aplicacion movil .APK, en la carpeta /tm
 echo 
 cd /tmp/
 cp $1 /tmp/fichero.zip
-unzip -v fichero.zip -d /tmp/
+unzip fichero.zip -d /tmp/
