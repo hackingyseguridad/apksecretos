@@ -3,6 +3,7 @@ echo
 echo "Busca secretos en los ficheros de la carpeta /tmp/"
 echo
 grep  -Hrn "http*" /tmp/
+grep  -Hrn "https*" /tmp/
 grep  -Hrn "token*" /tmp
 grep  -Hrn "password*" /tmp
 grep  -Hrn "auth" /tmp
