@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo
 chmod 777 desempaquetar.sh
 echo "Uso.: sh desempaquetar.sh nombrep_fichero.apk" 
