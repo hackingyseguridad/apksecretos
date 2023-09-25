@@ -5,7 +5,7 @@ echo
 grep  -Hrn "http*" /tmp/
 grep  -Hrn "https*" /tmp/
 grep  -Hrn "token*" /tmp
-grep  -Hrn "password*" /tmp
+grep  -Hrn "passwd*" /tmp
 grep  -Hrn "auth" /tmp
 grep  -Hrn "api" /tmp
 grep  -Hrn "sql" /tmp
