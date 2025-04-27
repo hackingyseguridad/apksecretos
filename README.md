@@ -8,10 +8,9 @@ Analisis heuristico de APP aplicación movil .APK y extraer los datos embebidos 
 
 
 
-## http://hackingyseguridad.com
 
-https://github.com/vincentcox/StaCoAn
+#
+http://hackingyseguridad.com
+#
 
-https://stackoverflow.com/questions/22102999/get-total-physical-memory-in-python/22103295#22103295
 
-https://github.com/n0mi1k/apk2url
